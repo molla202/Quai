@@ -1,5 +1,10 @@
 
+#### Açıklama
 
+- Node kurulumundan sonra bu kısım zor deil.
+- madencilik yapacağınız bölgeyi seçiyorsunuz. ve o bölgede cüzdan olusturuyorsunuz zaten. altta o bölgenin kodunu çalıştırdığınızda çalışacaktır.
+- harici bir ayar yok.
+- Bir Age Of Empire atasözü derki : Madenci kazarım
 
 ### Dosyaları çekelim
 ```
