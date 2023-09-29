@@ -24,7 +24,7 @@ Not: seçeceğimiz bölgeyi ayarlamamız lazım.
 
 ![image](https://github.com/molla202/Quai/assets/91562185/c7ec2397-ce06-45a8-9c1a-e089b0846993)
 
-| Bileşenler | Minimum Gereksinimler |  k |
+| Chain name | Chain index |  Command |
 | ------------ | ------------ | ------------ |
 | Cyprus-1 | [0 0]	| `./build/bin/quai-stratum --region=8579 --zone=8611` |
 | Cyprus-2 | [0 1]	| `./build/bin/quai-stratum --region=8579 --zone=8643` |
