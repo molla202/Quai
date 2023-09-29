@@ -10,6 +10,14 @@
 
 👉 `Faucet` : https://faucet.quai.network/    Bize platform testleri için laızm olucaktır...
 
+👉 [CoreNode Telegram](https://t.me/corenode)
+
+👉 [CoreNode Twitter](https://twitter.com/corenodehq)
+
+👉 [molla202 Twitter](https://twitter.com/gokhan_molla)
+
+👉 [CoreNode Telegram](https://t.me/gokhan_molla)
+
 ### 🚧 Update ve gereklilikler
 ```
 sudo apt update && sudo apt upgrade -y
