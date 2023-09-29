@@ -14,9 +14,9 @@
 
 👉 [CoreNode Twitter](https://twitter.com/corenodehq)
 
-👉 [molla202 Twitter](https://twitter.com/gokhan_molla)
+👉 [Gökhan Molla Twitter](https://twitter.com/gokhan_molla)
 
-👉 [CoreNode Telegram](https://t.me/gokhan_molla)
+👉 [Gökhan Molla Telegram](https://t.me/gokhan_molla)
 
 ### 🚧 Update ve gereklilikler
 ```
