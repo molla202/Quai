@@ -1,4 +1,6 @@
 
+![image](https://github.com/molla202/Quai/assets/91562185/4c9ece27-edce-4255-b71b-1a66154a2332)  ,![a8d18948a380bb2184b1b4b098fa61d2_w200](https://github.com/molla202/Quai/assets/91562185/440daf8b-e760-4fb7-9e16-7d02178b2c3c)
+
 #### Açıklama
 
 - Node kurulumundan sonra bu kısım zor deil.
