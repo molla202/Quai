@@ -58,7 +58,13 @@ mkdir build && cd build
 ```
 ### Madenciyi başlatalım...
 Not: Standart stratum portu 3333 tür. node ve stratum çalışan sunucunuzun ipsini yazacaksınız. eğer bir linux ubuntu kullanıyor ve ekrankartı bağlı pcnizde 3nüde birden çalıştıracaksanız. local ipnizide yazabilirsiniz.
+```
 ./ethcoreminer/ethcoreminer -G -P stratum://PROXYIPADRESS:STRATUMPORT
+```
+
+--------------------------
+
+
 
 
 
