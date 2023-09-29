@@ -21,6 +21,8 @@ Not: seçeceğimiz bölgeyi ayarlamamız lazım.
 ```
 ./build/bin/quai-stratum --region=REGION-WS-PORT --zone=ZONE-WS-PORT
 ```
+![image](https://github.com/molla202/Quai/assets/91562185/8c09fa7c-5338-4333-b5b2-54c761751352)
+
 
 | Chain name | Chain index |  Command |
 | ------------ | ------------ | ------------ |
