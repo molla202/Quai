@@ -10,6 +10,10 @@
 
 👉 `Faucet` : https://faucet.quai.network/    Bize platform testleri için laızm olucaktır...
 
+👉 [Quai Twitter](https://twitter.com/gokhan_molla)
+
+👉 [Quai Discord](https://discord.gg/EJQpSSaq)
+
 👉 [CoreNode Telegram](https://t.me/corenode)
 
 👉 [CoreNode Twitter](https://twitter.com/corenodehq)
@@ -17,6 +21,8 @@
 👉 [Gökhan Molla Twitter](https://twitter.com/gokhan_molla)
 
 👉 [Gökhan Molla Telegram](https://t.me/gokhan_molla)
+
+👉 Sorularınız için yukarıdaki adreslerden ulaşabilirsiniz.
 
 ### 🚧 Update ve gereklilikler
 ```
