@@ -22,8 +22,6 @@ Not: seçeceğimiz bölgeyi ayarlamamız lazım.
 ./build/bin/quai-stratum --region=REGION-WS-PORT --zone=ZONE-WS-PORT
 ```
 
-![image](https://github.com/molla202/Quai/assets/91562185/c7ec2397-ce06-45a8-9c1a-e089b0846993)
-
 | Chain name | Chain index |  Command |
 | ------------ | ------------ | ------------ |
 | Cyprus-1 | [0 0]	| `./build/bin/quai-stratum --region=8579 --zone=8611` |
@@ -35,6 +33,9 @@ Not: seçeceğimiz bölgeyi ayarlamamız lazım.
 | Hydra-1 | [2 0]	| `./build/bin/quai-stratum --region=8583 --zone=8615` |
 | Hydra-2 | [2 1]	| `./build/bin/quai-stratum --region=8583 --zone=8647` |
 | Hydra-3 | [2 2]	| `./build/bin/quai-stratum --region=8583 --zone=8679` |
+
+
+![image](https://github.com/molla202/Quai/assets/91562185/c7ec2397-ce06-45a8-9c1a-e089b0846993)
 
 
 
